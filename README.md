@@ -5,7 +5,7 @@
  </p>
 
 <div align="center">
-  <sub> Projeto Master Discover. Construido com  ❤ por
+  <sub> Projeto Curso em Video /Gustavo Guanabara. Construido de  ❤ por
     <a href="https://github.com/AnaPaulaSouzaDias">Ana Paula</a>  
   </sub>
 </div>
